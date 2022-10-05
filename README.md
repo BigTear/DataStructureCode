@@ -8,7 +8,14 @@
 > 《数据结构 ——基于C语言的描述》 彭波 主编
 > 
 > 《Data Structure Description Based on C Programming Language》
+>
+> 
+> 包括书中所有代码和例题代码的编译通过实现
 
 ## 目录
 
-[第3章 栈和队列](chapter3/README.md)
+<!-- TOC -->
+
+* [第3章 栈和队列](chapter3/README.md)
+
+<!-- TOC -->
