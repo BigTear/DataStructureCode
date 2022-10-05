@@ -7,6 +7,6 @@
 
 #### 代码：
 
-[栈](Stack_Sq.cpp)
+[栈的顺序表实现](Stack_Sq.cpp)
 
-[队列](Queue_Sq.cpp)
+[循环队列的顺序表实现](Queue_Sq.cpp)
