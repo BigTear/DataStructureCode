@@ -1,6 +1,7 @@
-# DataStructureCode
-
-数据结构代码仓库 
+<div align="center">
+<h1>DataStructureCode</h1>
+<h2>数据结构代码仓库</h2>
+</div>
 
 > 教材：
 > 
